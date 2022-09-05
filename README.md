@@ -1,0 +1,2 @@
+# tkinter_finanzas
+MONITOR COTACAO EM TEMPO REAL
